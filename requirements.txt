@@ -1,0 +1,6 @@
+Python 3.8+
+Streamlit
+TextBlob
+Plotly
+Pandas
+NumPy

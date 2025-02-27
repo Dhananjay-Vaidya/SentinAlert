@@ -1,0 +1,22 @@
+# Ignore environment variables and secrets
+.env
+
+# Ignore virtual environment (if any)
+venv/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore model files and large data
+models/
+*.pkl
+*.h5
+data/*.csv
+data/*.json
+
+# Ignore logs and temp files
+logs/
+*.log
+.DS_Store
